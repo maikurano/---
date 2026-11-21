@@ -1,0 +1,8 @@
+{
+  "name": "Verdant Depths",
+  "description": "2D Terraria-style sandbox survival game with procedural worlds, mining, building, crafting, combat, chests, and day-night exploration built from sliced pixel-art sprite atlases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
